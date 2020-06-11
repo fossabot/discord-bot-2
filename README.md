@@ -1,2 +1,2 @@
 # discord-bot
-My Discord Bot 
+Ez az első Discord Botom, Nyugodtan használjátok, Nyissatok Hibajegyet, Adjatok ötleteket
