@@ -8,8 +8,6 @@ Mivel ez egy nyílt forráskódú bot, ezért lehetőséged van otthon is futtat
 
 Telepítve kell lennie: **NPM**(Együtt jön a NodeJS-el), **NodeJS**
 
-There are many tutorials online on how to install all these packages for your operating system.
-
 1. Töltsd le a kódot
 
 
