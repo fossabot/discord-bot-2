@@ -1,4 +1,6 @@
 # discord-bot
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdavidfegyver%2Fdiscord-bot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdavidfegyver%2Fdiscord-bot?ref=badge_shield)
+
 Ez az első Discord Botom, remélem jól sikerült
 
 
@@ -31,3 +33,7 @@ Ha kell valami segítség írj nekem discordon: `davidfegyver#8572`
 
 
 English version coming soon...
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdavidfegyver%2Fdiscord-bot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdavidfegyver%2Fdiscord-bot?ref=badge_large)
